@@ -15,4 +15,4 @@ Aplicativo mobile de estudo no formato Shorts para recuperação do 6º ano.
 ## Publicação
 GitHub Pages pela branch `main`, diretório raiz (`/root`).
 
-Última atualização de publicação: 05/10/2026.
+Nova tentativa limpa de publicação: 05/10/2026 18:36 (Brasília).
