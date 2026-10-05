@@ -1,11 +1,18 @@
-# Recuperação Shorts
+# Jujubinha Reells
 
-Aplicativo mobile de estudo no formato Shorts, com 60 questões de Inglês, História e Artes elaboradas a partir dos materiais de recuperação enviados.
+Aplicativo mobile de estudo no formato Shorts para recuperação do 6º ano.
 
 ## Recursos
 - Feed vertical de questões
 - Alternativas e gabarito
-- Explicação após resposta
-- Filtro por matéria
+- Comentários didáticos após a resposta
+- Filtro por matéria e por questões resolvidas/a fazer
 - Desempenho e percentual de acertos
 - Progresso salvo localmente no aparelho
+- Cronômetro regressivo ajustável acima dos Shorts
+- Feedback visual para acertos, erros e término do cronômetro
+
+## Publicação
+GitHub Pages pela branch `main`, diretório raiz (`/root`).
+
+Última atualização de publicação: 05/10/2026.
